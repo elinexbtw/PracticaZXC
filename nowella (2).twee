@@ -1,0 +1,185 @@
+:: StoryTitle
+nowella
+
+
+:: StoryData
+{
+  "ifid": "CF9663FA-AEF6-477E-8000-12A9C00994A3",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "начало",
+  "zoom": 1
+}
+
+
+:: exel {"position":"0,600","size":"100,100"}
+
+
+
+
+:: А {"position":"625,125","size":"100,100"}
+<left><img src="https://raw.githubusercontent.com/elinexbtw/PracticaZXC/refs/heads/main/7.jpeg">
+</left>
+[(text-colour:red)[Ты попрощался, а на следующий день вспомнил, что тебе надо сдать отчет по ПП. Но уже никак.]]
+(text-style: "shudder")[(text-colour:red)[ТЫ НЕ ДОПУЩЕН К ЭКЗАМЕНУ...]]
+
+[[Начать заново|начало]]
+
+
+
+:: Айдан {"position":"0,600","size":"100,100"}
+
+
+
+
+:: Алина {"position":"0,600","size":"100,100"}
+
+
+
+
+:: Ар {"position":"0,600","size":"100,100"}
+
+
+
+
+:: Артём {"position":"0,250","size":"100,100"}
+<left><img src="https://github.com/elinexbtw/PracticaZXC/blob/main/5.jpeg?raw=true">
+</left>
+Ты решил сесть на маршрутку и попал в пробку.
+[[далее|команда]]
+
+
+:: Вероника {"position":"625,375","size":"100,100"}
+[(text-colour:green)[Ты получил 5 и завершил сессию]]
+
+[[К началу|начало]]
+
+
+:: Д {"position":"750,375","size":"100,100"}
+Настало 24 января, и ты пришел на экзамен, показал все задания по ПП и тебя допустили к экзамену, ты все написал.
+<left><img src="https://raw.githubusercontent.com/elinexbtw/PracticaZXC/refs/heads/main/9.jpeg">
+</left>
+[[далее|Вероника]]
+
+
+
+:: Кирилл {"position":"875,375","size":"100,100"}
+Ты сделал все задания, а после ушел домой.
+<left><img src="https://raw.githubusercontent.com/elinexbtw/PracticaZXC/refs/heads/main/12.jpeg">
+</left>
+[[далее|Д]]
+
+
+:: Объединиться в команду {"position":"0,125","size":"100,100"}
+<left><img src="https://raw.githubusercontent.com/elinexbtw/PracticaZXC/refs/heads/main/2.jpeg">
+</left>
+У тебя есть выбор, поехать на Электричке без пробок, а после идти пешком, или поехать на маршрутке и доехать прямо до практике, но есть шанс попасть в пробку.
+
+[[Маршрутка|Артём]]
+[[Электричка|выбранная тема]]
+
+
+:: Остаться одному {"position":"875,250","size":"100,100"}
+Ты познакомился, и решил делать задание по ПП и УП
+<left><img src="https://raw.githubusercontent.com/elinexbtw/PracticaZXC/refs/heads/main/8.jpeg">
+</left>
+[[далее|Кирилл]]
+
+
+:: Поспать еще 5 минут {"position":"125,0","size":"100,100"}
+<left><img src="https://raw.githubusercontent.com/elinexbtw/PracticaZXC/refs/heads/main/3.jpeg">
+</left>
+(text-style: "shudder")[(text-colour:red)[ты проспал и тебе сделали выговор...]]
+
+[[Начать заново|начало]]
+
+
+:: выбранная тема {"position":"125,125","size":"100,100"}
+Ты приехал на электричке, дошел пешком до практики, и у тебя в запасе есть еще 10мин. 
+<left><img src="https://raw.githubusercontent.com/elinexbtw/PracticaZXC/refs/heads/main/4.jpeg">
+</left>
+[[далее|предитог]]
+
+
+:: доска {"position":"250,125","size":"100,100"}
+Ты выслушал Ковалева К.А. и приступил к задаче.
+Твоя задача на день, изменить иконки на сайте, но сначала все в бета тесте.
+<left><img src="https://github.com/elinexbtw/PracticaZXC/blob/main/10.jpeg?raw=true">
+</left>
+[[далее|неитог]]
+
+
+:: задачи {"position":"125,250","size":"100,100"}
+К тебе пришел Ковалев К.А. и начал объяснять задание которое ты сегодня будешь делать.
+[[Слушать|доска]]
+[[Прослушать|протокол]]
+
+
+
+
+:: итог {"position":"625,250","size":"100,100"}
+На следующий день, ты пришел на практику, и Ковалев К.А. дал тебе задание на день.
+[[далее|код]]
+
+
+
+:: к {"position":"500,250","size":"100,100"}
+Ты согласился дальше практиковаться, и сказали, что будут ждать завтра.
+
+[[далее|итог]]
+
+
+:: код {"position":"750,250","size":"100,100"}
+Познакомься с коллегами, и занимайся своими делами.
+<left><img src="https://raw.githubusercontent.com/elinexbtw/PracticaZXC/refs/heads/main/11.jpeg">
+</left>
+[[далее|Остаться одному]]
+
+
+
+:: команда {"position":"0,375","size":"100,100"}
+(text-style: "shudder")[(text-colour:red)[ты опоздал и тебе сделали выговор...]]
+
+[[Начать заново|начало]]
+
+
+:: начало {"position":"0,0","size":"100,100"}
+<left><img src="https://raw.githubusercontent.com/elinexbtw/PracticaZXC/refs/heads/main/1.jpeg">
+</left>
+Ты проснулся по будильнику, и вспоминаешь, что у тебя практика.
+Но думаешь, что времени у тебя еще много, и решаешься, что же сделать.
+
+
+[[Встать и идти умываться|Объединиться в команду]]
+[[Поспать еще 5 минут|Поспать еще 5 минут]]
+
+
+:: неитог {"position":"375,125","size":"100,100"}
+Ты сдал задание, все работает.
+[(text-colour:green)[Тебя похвалили]]
+
+[[далее|новзадача]]
+
+
+:: новзадача {"position":"500,125","size":"100,100"}
+Тебе сказали, что если ты хочешь продолжить практиковаться, то должен завтра придти так же в 8:30 утра.
+Либо же попрощаться, и дальше остаться дома.
+
+[[Дальше практиковаться|к]]
+[[Попрощаться|А]] 
+
+
+
+:: предитог {"position":"250,0","size":"100,100"}
+Ты решил пойти и купить стакан с кофе.
+<left><img src="https://raw.githubusercontent.com/elinexbtw/PracticaZXC/refs/heads/main/6.jpeg">
+</left>
+[[далее|задачи]]
+
+
+:: протокол {"position":"250,250","size":"100,100"}
+<left><img src="https://raw.githubusercontent.com/elinexbtw/PracticaZXC/refs/heads/main/3.jpeg">
+</left>
+(text-style: "shudder")[(text-colour:red)[ты прослушал и не понял, что тебе делать. Тебе дали выговор...]]
+
+[[Начать заново|начало]]
